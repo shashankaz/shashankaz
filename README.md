@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankaz&label=Profile%20views&color=0e75b6&style=flat" alt="shashankaz" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://shashankaz.vercel.app/](https://shashankaz.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.shashankk.tech/](https://www.shashankk.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
