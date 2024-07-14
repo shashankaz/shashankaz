@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Front-end project**
+ 🔭 I’m currently working on **Full-stack projects**
  
  🌱 I’m currently learning **NodeJs, ExpressJs, MongoDb**
 
-💬 Ask me about **NextJs, ReactJs, Tailwindcss**
+💬 Ask me about **JavaScript, ReactJs, Tailwindcss**
 
  </div>
  
