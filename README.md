@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Full-stack projects**
  
- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDb**
+ 🌱 I’m currently learning **DSA & Full Stack web development**
 
-💬 Ask me about **JavaScript, ReactJs, Tailwindcss**
+💬 Ask me about **MERN Stack**
 
  </div>
  
