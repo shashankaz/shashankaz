@@ -31,18 +31,18 @@
   <a href="https://twitter.com/shashankaz" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.codechef.com/users/o_r_e_o" target="_blank">
+<!--   <a href="https://www.codechef.com/users/" target="_blank">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" target="_blank" />
   </a>
-  <a href="https://codeforces.com/profile/shashankaz" target="_blank">
+  <a href="https://codeforces.com/profile/" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank" />
   </a>
-  <a href="https://leetcode.com/shashankaz/" target="_blank">
+  <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
   </a>
-  <a href="https://shashankk.tech/" target="_blank">
+  <a href="https://shashankaz.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+  </a> -->
 </div>
 
  <hr/>
