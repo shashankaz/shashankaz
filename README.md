@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashank!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Full-stack projects**
+ 🔭 I’m currently working on **full-stack projects and real-time web apps**  
  
- 🌱 I’m currently learning **DSA & Full Stack web development**
+ 🌱 I’m currently diving deeper into **DSA and advanced backend architecture**  
+ 
+ 💬 Ask me about **MERN Stack, Next.js, Tailwind, Redis, and scalable backend systems**  
 
-💬 Ask me about **MERN Stack**
-
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:shashankstories@gmail.com">
@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/shashankaz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://twitter.com/shashankaz" target="_blank">
+  <a href="https://x.com/shashankaz" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="https://www.codechef.com/users/" target="_blank">
@@ -47,12 +47,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,sass,react,redux,nextjs,npm,bootstrap,mui" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman,git,github,babel,c,cpp,py" /><br>
-</div>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,mui,npm,vite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,redis,docker,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,c,bash,vscode,linux" />
 
 <br/>
 <hr/>
