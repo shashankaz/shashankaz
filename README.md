@@ -1,87 +1,68 @@
+<!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shashankaz.shashankaz" />
 
+<!-- Typing SVG -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashank!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashank!;" />
 </h1>
 
-<h3 align="center">Full-Stack Developer & Problem Solver from India 🇮🇳</h3>
+<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Cloud Enthusiast</h3>
 
-<br/>
+<p align="center">
+I'm a passionate developer from India 🇮🇳, specializing in building scalable backend systems, real-time platforms, and delightful user experiences.
+</p>
 
-<div align="center">
- 
-💼 Recently built **AI-powered backlink analysis systems, college tools, and real-time platforms** in production  
- 
+---
+
+### 🔗 Connect with Me  
+<p align="center">
+  <a href="mailto:shashankstories@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shashankaz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/shashankaz"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shashankaz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 💡 About Me  
+💼 Built **AI-powered backlink analysis systems**, **college tools**, and **real-time platforms** in production  
 🌐 Skilled in **MERN, Next.js, FastAPI, PostgreSQL, Redis, AWS, and scalable backend systems**  
- 
-🚀 Experienced in **optimizing UI/UX, building automation pipelines, and deploying cloud-native apps**  
- 
-🎯 3rd Prize Winner – Appwrite Hacktoberfest Hackathon
+🚀 Experienced in **UI/UX optimization, automation pipelines, and cloud deployments**  
+🏆 **3rd Prize Winner** – Appwrite Hacktoberfest Hackathon  
+📚 Solved **500+ DSA problems** on LeetCode, Codeforces, and CodeChef  
 
-</div>
- 
-<div align="center"> 
-  <a href="mailto:shashankstories@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/shashankaz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/shashankaz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://x.com/shashankaz" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://www.codechef.com/users/" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codeforces.com/profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
-  </a>
-  <a href="https://shashankaz.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
-</div>
+---
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,mui,npm,vite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,redis,docker,git,github,postman" />
-    <img src="https://skillicons.dev/icons?i=cpp,py,c,bash,vscode,linux" />
+### 🛠️ Tech Stack  
 
-<br/>
-<hr/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite,nodejs,express,django,fastapi,mongodb,postgres,prisma,redis,firebase,docker,aws,git,github,githubactions,postman,cpp,py,linux,bash&perline=10" />
+</p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shashankaz/shashankaz/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<p align="center">
+⚡ Also experienced with: Zustand, ShadcnUI, BullMQ, Agenda, NeonDB, Socket.IO, Microservices, CI/CD Pipelines
+</p>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shashankaz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shashankaz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shashankaz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+### 🐍 Fun Touch  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shashankaz/shashankaz/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
-<br/><br/>
+---
 
-<hr/>
+### 📊 GitHub Stats  
 
-</div>
+<p align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shashankaz&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shashankaz&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</p>
 
-<br/>
+<p align="center">
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shashankaz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
+</p>
+
+---
+
+<p align="center">⚡ <em>Building scalable systems and solving challenging problems every day</em> ⚡</p>
