@@ -4,17 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashank!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer & Problem Solver from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **full-stack projects and real-time web apps**  
+💼 Recently built **AI-powered backlink analysis systems, college tools, and real-time platforms** in production  
  
- 🌱 I’m currently diving deeper into **DSA and advanced backend architecture**  
+🌐 Skilled in **MERN, Next.js, FastAPI, PostgreSQL, Redis, AWS, and scalable backend systems**  
  
- 💬 Ask me about **MERN Stack, Next.js, Tailwind, Redis, and scalable backend systems**  
+🚀 Experienced in **optimizing UI/UX, building automation pipelines, and deploying cloud-native apps**  
+ 
+🎯 3rd Prize Winner – Appwrite Hacktoberfest Hackathon
 
 </div>
  
