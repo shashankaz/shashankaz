@@ -40,7 +40,7 @@ I'm a passionate developer from India 🇮🇳, specializing in building scalabl
 </p>
 
 <p align="center">
-⚡ Also experienced with: Zustand, ShadcnUI, BullMQ, Agenda, NeonDB, Socket.IO, Microservices, CI/CD Pipelines
+⚡ Also experienced with: Zustand, ShadcnUI, BullMQ, Agenda, NeonDB, Socket.IO, Microservices
 </p>
 
 ---
