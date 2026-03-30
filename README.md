@@ -25,11 +25,11 @@ I'm a passionate developer from India 🇮🇳, specializing in building scalabl
 ---
 
 ### 💡 About Me  
-💼 Built **production-grade full-stack systems** including a multi-tenant CRM, AI-powered backlink analysis tools, and real-time contest platforms
-🌐 Skilled in **React, Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, and AWS**, with a focus on scalable backend architectures
-🚀 Experienced in **workflow automation, background job systems (SQS, BullMQ), and performance optimization** across real-world applications
-🏆 **3rd Prize Winner** – Appwrite Hacktoberfest Hackathon (Algomorph)
-📚 Solved **500+ DSA problems** across LeetCode, Codeforces, and CodeChef
+💼 Built **production-grade full-stack systems** including a multi-tenant CRM, AI-powered backlink analysis tools, and real-time contest platforms  
+🌐 Skilled in **React, Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, and AWS**, with a focus on scalable backend architectures  
+🚀 Experienced in **workflow automation, background job systems (SQS, BullMQ), and performance optimization** across real-world applications  
+🏆 **3rd Prize Winner** – Appwrite Hacktoberfest Hackathon (Algomorph)  
+📚 Solved **500+ DSA problems** across LeetCode, Codeforces, and CodeChef  
 
 ---
 
