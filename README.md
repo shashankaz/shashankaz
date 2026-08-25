@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    I build things that live on the internet — scalable backends, real-time platforms, and interfaces people actually enjoy using. From multi-tenant CRMs to AI-powered tooling, I like taking messy problems and turning them into clean, fast systems. When I'm not shipping, I'm probably breaking something in the cloud just to see how it works. Based in India 🇮🇳, building for everywhere.
+I build things that live on the internet — multi-tenant CRMs, real-time platforms, and AI-powered tooling people actually use. Full-stack by trade (TypeScript, React, Node, FastAPI, PostgreSQL), backend-obsessed by choice. I like taking messy problems and turning them into clean, fast systems — then breaking something in AWS just to see how it works. Based in India 🇮🇳, building for everywhere.
   </em>
 </p>
 
