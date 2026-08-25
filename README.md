@@ -28,9 +28,8 @@
 
 ### 📈 My GitHub Pulse
 
-<!-- Custom self-hosted widget — regenerated daily by .github/workflows/update-stats.yml -->
 <p align="center">
-  <img src="assets/stats.svg" alt="GitHub stats: streak, contributions, and top languages" width="95%" />
+  <img src="https://raw.githubusercontent.com/shashankaz/shashankaz/stats-output/stats.svg" alt="GitHub stats: streak, contributions, and top languages" width="95%" />
 </p>
 
 ---
