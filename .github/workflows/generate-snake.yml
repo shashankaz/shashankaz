@@ -23,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%234493f8&color_dots=%23151b23,%23033a16,%23196c2e,%232ea043,%2356d364&dark_color_snake=%234493f8&dark_color_dots=%23151b23,%23033a16,%23196c2e,%232ea043,%2356d364
             dist/github-contribution-grid-snake.gif?color_snake=%234493f8&color_dots=%23151b23,%23033a16,%23196c2e,%232ea043,%2356d364
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Show build status
         run: git status
       - name: Push new files to the output branch

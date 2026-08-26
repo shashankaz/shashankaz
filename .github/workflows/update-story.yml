@@ -1,0 +1,43 @@
+name: Generate Story
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Generate the story timeline in './dist/'
+        run: node generate-story.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+          OUT_DIR: dist
+
+      - name: Show build status
+        run: git status
+
+      - name: Push new files to the story-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: story-output
+          build_dir: dist
+          commit_message: Update GitHub story
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

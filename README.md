@@ -34,6 +34,14 @@ I build things that live on the internet — multi-tenant CRMs, real-time platfo
 
 ---
 
+### 📖 My GitHub Story
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shashankaz/shashankaz/story-output/github-story.svg" alt="GitHub account history timeline since creation" width="95%" />
+</p>
+
+---
+
 <p align="center"><em>Code. Ship. Repeat.</em></p>
 
 ---
