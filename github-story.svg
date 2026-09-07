@@ -1,0 +1,64 @@
+<svg width="880" height="300" viewBox="0 0 880 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub story for shashankaz">
+  <style>
+    .title  { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; letter-spacing: 2px; }
+    .sub    { font: 600 12px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .muted  { fill: #8b949e; font-weight: 400; }
+    .val    { font: 600 11px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .peak   { font: 700 12px 'Segoe UI', Ubuntu, sans-serif; fill: #61DAFB; }
+    .year   { font: 600 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .line   { stroke-dasharray: 2000; stroke-dashoffset: 0; animation: draw 1.6s ease-out; }
+    .area   { animation: fadein 1.2s ease-out .4s backwards; }
+    .fade   { animation: fadein .5s ease-out backwards; }
+    @keyframes draw   { from { stroke-dashoffset: 2000; } }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .line, .area, .fade { animation: none; } }
+  </style>
+
+  <defs>
+    <linearGradient id="areaFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="299" rx="12" fill="#0D1117" stroke="#21262d"/>
+
+  <!-- header -->
+  <text x="56" y="36" class="title">@SHASHANKAZ · GITHUB STORY</text>
+  <text x="824" y="36" text-anchor="end" class="sub">Joined Sep 2022 · 4+ years on GitHub</text>
+  <line x1="56" y1="50" x2="824" y2="50" stroke="#21262d"/>
+  <text x="56" y="76" class="sub">10,841 contributions since day one <tspan class="muted">· best year 2026 (6,891) · 54 repos built</tspan></text>
+
+  <!-- baseline -->
+  <line x1="56" y1="234" x2="824" y2="234" stroke="#21262d"/>
+
+  <!-- journey -->
+  <path class="area" d="M56.0,233.5 L248.0,233.2 L440.0,223.3 L632.0,177.1 L824.0,114.0 L824.0,234 L56.0,234 Z" fill="url(#areaFill)"/>
+  <path class="line" d="M56.0,233.5 L248.0,233.2 L440.0,223.3 L632.0,177.1 L824.0,114.0" fill="none" stroke="#61DAFB" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+    <g class="fade" style="animation-delay:1s">
+      <circle cx="56" cy="233.51240748802786" r="4" fill="#0D1117" stroke="#61DAFB" stroke-width="2"/>
+      <text x="56" y="219.51240748802786" text-anchor="middle" class="val">28</text>
+      <text x="56" y="256" text-anchor="middle" class="year">2022</text>
+    </g>
+    <g class="fade" style="animation-delay:1.12s">
+      <circle cx="248" cy="233.21636917718763" r="4" fill="#0D1117" stroke="#61DAFB" stroke-width="2"/>
+      <text x="248" y="219.21636917718763" text-anchor="middle" class="val">45</text>
+      <text x="248" y="256" text-anchor="middle" class="year">2023</text>
+    </g>
+    <g class="fade" style="animation-delay:1.24s">
+      <circle cx="440" cy="223.34262080975185" r="4" fill="#0D1117" stroke="#61DAFB" stroke-width="2"/>
+      <text x="440" y="209.34262080975185" text-anchor="middle" class="val">612</text>
+      <text x="440" y="256" text-anchor="middle" class="year">2024</text>
+    </g>
+    <g class="fade" style="animation-delay:1.3599999999999999s">
+      <circle cx="632" cy="177.14323030039182" r="4" fill="#0D1117" stroke="#61DAFB" stroke-width="2"/>
+      <text x="632" y="163.14323030039182" text-anchor="middle" class="val">3,265</text>
+      <text x="632" y="256" text-anchor="middle" class="year">2025</text>
+    </g>
+    <g class="fade" style="animation-delay:1.48s">
+      <circle cx="824" cy="113.99999999999999" r="6" fill="#61DAFB" stroke="#61DAFB" stroke-width="2"/>
+      <text x="824" y="99.99999999999999" text-anchor="middle" class="peak">6,891</text>
+      <text x="824" y="256" text-anchor="middle" class="year">2026</text>
+    </g>
+</svg>
