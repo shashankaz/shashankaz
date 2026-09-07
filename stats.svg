@@ -1,0 +1,85 @@
+<svg width="880" height="258" viewBox="0 0 880 258" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats for shashankaz">
+  <style>
+    .value  { font: 700 24px 'Segoe UI', Ubuntu, sans-serif; fill: #e6edf3; }
+    .label  { font: 600 10px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; letter-spacing: 1.4px; }
+    .big    { font: 800 34px 'Segoe UI', Ubuntu, sans-serif; fill: #61DAFB; }
+    .sub    { font: 600 10px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; letter-spacing: 1.6px; }
+    .lang   { font: 600 12px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .pct    { fill: #8b949e; font-weight: 400; }
+    .title  { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; letter-spacing: 2px; }
+    .ring   { stroke-dasharray: 402.1 402.1; stroke-dashoffset: 0;
+              animation: ring 1.2s ease-out; }
+    .fade   { animation: fade .5s ease-out backwards; }
+    @keyframes ring { from { stroke-dasharray: 0 402.1; } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .ring, .fade { animation: none; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="879" height="257" rx="12" fill="#0D1117" stroke="#21262d"/>
+
+  <!-- streak ring -->
+  <circle cx="122" cy="116" r="64" fill="none" stroke="#21262d" stroke-width="8"/>
+  <circle cx="122" cy="116" r="64" fill="none" stroke="#61DAFB" stroke-width="8"
+          stroke-linecap="round" class="ring" transform="rotate(-90 122 116)"/>
+  <text x="122" y="122" text-anchor="middle" class="big">120</text>
+  <text x="122" y="144" text-anchor="middle" class="sub">DAY STREAK</text>
+  <text x="122" y="212" text-anchor="middle" class="label">UPDATED DAILY</text>
+
+  <!-- header -->
+  <text x="240" y="32" class="title">@SHASHANKAZ · GITHUB PULSE</text>
+  <line x1="240" y1="46" x2="848" y2="46" stroke="#21262d"/>
+
+  
+    <g class="fade" style="animation-delay:0.15s">
+      <text x="240" y="78" class="value">10,841</text>
+      <text x="240" y="96" class="label">TOTAL CONTRIBUTIONS</text>
+    </g>
+    <g class="fade" style="animation-delay:0.25s">
+      <text x="440" y="78" class="value">6,891</text>
+      <text x="440" y="96" class="label">IN 2026</text>
+    </g>
+    <g class="fade" style="animation-delay:0.35s">
+      <text x="640" y="78" class="value">120 days</text>
+      <text x="640" y="96" class="label">LONGEST STREAK</text>
+    </g>
+    <g class="fade" style="animation-delay:0.45000000000000007s">
+      <text x="240" y="136" class="value">9</text>
+      <text x="240" y="154" class="label">STARS EARNED</text>
+    </g>
+    <g class="fade" style="animation-delay:0.55s">
+      <text x="440" y="136" class="value">12</text>
+      <text x="440" y="154" class="label">FOLLOWERS</text>
+    </g>
+    <g class="fade" style="animation-delay:0.65s">
+      <text x="640" y="136" class="value">54</text>
+      <text x="640" y="154" class="label">PUBLIC REPOS</text>
+    </g>
+
+  <!-- language ribbon -->
+  <rect x="240" y="186" width="332.9145316313042" height="10" rx="3" fill="#3178c6"/><rect x="574.9145316313043" y="186" width="112.61385085002254" height="10" rx="3" fill="#DA5B0B"/><rect x="689.5283824813267" y="186" width="76.02330100319794" height="10" rx="3" fill="#f1e05a"/><rect x="767.5516834845247" y="186" width="33.99195858618489" height="10" rx="3" fill="#555555"/><rect x="803.5436420707096" y="186" width="17.996423734954348" height="10" rx="3" fill="#3572A5"/><rect x="823.5400658056639" y="186" width="11.226298331678326" height="10" rx="3" fill="#663399"/>
+  
+    <g class="fade" style="animation-delay:0.6s">
+      <circle cx="244" cy="214" r="4" fill="#3178c6"/>
+      <text x="254" y="218" class="lang">TypeScript <tspan class="pct">55.1%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.6799999999999999s">
+      <circle cx="446" cy="214" r="4" fill="#DA5B0B"/>
+      <text x="456" y="218" class="lang">Jupyter Notebook <tspan class="pct">18.9%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.76s">
+      <circle cx="648" cy="214" r="4" fill="#f1e05a"/>
+      <text x="658" y="218" class="lang">JavaScript <tspan class="pct">12.8%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.84s">
+      <circle cx="244" cy="236" r="4" fill="#555555"/>
+      <text x="254" y="240" class="lang">C <tspan class="pct">5.9%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:0.9199999999999999s">
+      <circle cx="446" cy="236" r="4" fill="#3572A5"/>
+      <text x="456" y="240" class="lang">Python <tspan class="pct">3.3%</tspan></text>
+    </g>
+    <g class="fade" style="animation-delay:1s">
+      <circle cx="648" cy="236" r="4" fill="#663399"/>
+      <text x="658" y="240" class="lang">CSS <tspan class="pct">2.2%</tspan></text>
+    </g>
+</svg>
